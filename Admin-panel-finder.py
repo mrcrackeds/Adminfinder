@@ -32,8 +32,8 @@ def findAdmin():
 def Credit():
 	Space(9); print "#####################################"
 	Space(9); print "#   +++ Admin Panel Finder v1 +++   #"
-	Space(9); print "#         Script by MR.CRACKED      #"
-	Space(9); print "#          Mahiska Cyber Team       #"
+	Space(9); print "#        Script by MR.CRACKED       #"
+	Space(9); print "#         Mahiska Cyber Team        #"
 	Space(9); print "#####################################"
 
 Credit()
